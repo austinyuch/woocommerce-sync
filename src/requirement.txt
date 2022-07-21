@@ -1,1 +1,11 @@
 woocommerce
+
+uvicorn
+fastapi
+requests
+aiofiles
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+
+jinja2
